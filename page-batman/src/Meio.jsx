@@ -1,6 +1,6 @@
 function Meio() {
     return (
-        <main>
+        <main class='bg-black'>
             <section>
                 <img src="" alt="logo do filme" />
 

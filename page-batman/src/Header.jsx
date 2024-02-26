@@ -1,7 +1,7 @@
 function Header () {
     return (
         <header class=' bg-black flex flex-row justify-between items-center text-lg w-[100%] '>
-            <a href="#"><img class='size-[50%] ml-[5%] mt-[5%]  ' src="./src/assets/Batman-logo.png" alt="" /></a>
+            <a href="#"><img class='size-[10%] ml-[5%] mt-[5%] relative bottom-[6px]' src="./src/assets/netflix-logo.png" alt="" /></a>
             <nav className="navigation flex ">
                 <ul class='flex flex-row gap-[20px] items-center md:gap-[40px] lg:gap-[70px] '>
                     <li><a class='text-white hover:text-red-700 transition-[0.2s]' href="#">Home</a></li>
